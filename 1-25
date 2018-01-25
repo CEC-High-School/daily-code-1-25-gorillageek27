@@ -1,0 +1,25 @@
+#include <iostream>
+using namespace std;
+int main() {
+	char a;
+	char b;
+	char c;
+	char cd
+	cout << "enter password" << endl;
+
+	cin >> a;
+	cin >> b;
+	cin >> c;
+
+	if (a == 'j' && b == 'a' && c == 'm' && d == 'd')
+		cout << "welcome aboard, you know the password." << endl;
+	else
+		cout << "burn yourself" << endl;
+
+	
+
+
+
+
+
+}
